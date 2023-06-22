@@ -7,7 +7,7 @@
 
 # Projects
 🈚 The Projects sections contain 6 independent projects. 
-- [ ] Project0: tutorial
+- [x] [Project0: tutorial](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/project/project0-tutorial)
 - [ ] Project1: 
 - [ ] Project2: 
 - [ ] Project3: 
