@@ -22,6 +22,7 @@ For orders:  [('apples', 3.0)] best shop is shop2
 """
 from __future__ import print_function
 import shop
+import buyLotsOfFruit
 
 
 def shopSmart(orderList, fruitShops):
@@ -29,8 +30,16 @@ def shopSmart(orderList, fruitShops):
         orderList: List of (fruit, numPound) tuples
         fruitShops: List of FruitShops
     """
-    "*** YOUR CODE HERE ***"
-    return None
+    min_num = fruitShops[0].getPriceOfOrder(orderList)
+    i = 0
+    result = 0
+    while i < len(fruitShops):
+        num = fruitShops[i].getPriceOfOrder(orderList)
+        if num < min_num:
+            min_num = num
+            result = i
+        i += 1
+    return fruitShops[result]
 
 
 if __name__ == '__main__':
