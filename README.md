@@ -3,11 +3,11 @@
 ⚔ **IDE**: PyCharm and Overleaf.
 
 # Resources
-📽 All course resources can be found at [this page](https://inst.eecs.berkeley.edu/~cs188/fa22/). 
-🖼 UC Berkeley has opened up the fall 2018 edition. You can reach resources at [this page](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)
+📽 All course resources can be found at [this page](https://inst.eecs.berkeley.edu/~cs188/fa22/).  
+🖼 UC Berkeley has opened up the fall 2018 edition. You can reach resources at [this page](https://inst.eecs.berkeley.edu/~cs188/fa18/index.html)  
 
-# Notes
-🈚 The Notes sections contain 22 independent notes. 
+# Note
+🈚 The Note section contains 22 independent notes. 
 - [x] [Note01: Uninformed Search](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/Notes/Note01.pdf)
 - [ ] Note02: 
 - [ ] Note03: 
@@ -15,8 +15,12 @@
 - [ ] Note05: 
 - [ ] Note06: 
 
-# Projects
-🈚 The Projects sections contain 6 independent projects. 
+# Homework
+👑 CS188 Fall 2022 did not open homework, therefore, I choose the open-source Fall 2020 version. The Homework section contains 12 independent homework.  
+- [x] HW0: Basic Math
+
+# Project
+🎭 The Project section contains 6 independent projects. 
 - [x] [Project0: Python, Setup, & Autograder Tutorial](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/project/Project0-Tutorial)
 - [ ] Project1: 
 - [ ] Project2: 
