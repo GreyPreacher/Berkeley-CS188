@@ -9,15 +9,12 @@
 # Note
 🈚 The Note section contains 22 independent notes. 
 - [x] [Note01: Uninformed Search](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/Notes/Note01.pdf)
-- [ ] Note02: 
-- [ ] Note03: 
-- [ ] Note04: 
-- [ ] Note05: 
-- [ ] Note06: 
+- [x] [Note02: Informed Search](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/Notes/Note02.pdf)
+
 
 # Homework
 👑 CS188 Fall 2022 did not open homework, therefore, I choose the open-source Fall 2020 version. The Homework section contains 12 independent homework.  
-- [x] HW0: Basic Math
+- [x] HW0(Fa20 electronic): Basic Math
 
 # Project
 🎭 The Project section contains 6 independent projects. 
