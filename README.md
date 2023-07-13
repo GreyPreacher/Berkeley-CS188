@@ -10,6 +10,8 @@
 🈚 The Note section contains 22 independent notes. 
 - [x] [Note01: Uninformed Search](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/Notes/Note01.pdf)
 - [x] [Note02: Informed Search](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/Notes/Note02.pdf)
+- [x] [Note03: CSPs I](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/Notes/Note03.pdf)
+- [x] [Note04: CSPs II](https://github.com/GreyPreacher/Berkeley-CS188/tree/main/Notes/Note04.pdf)
 
 
 # Homework
